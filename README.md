@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋 I'm Urmal Chide
 
-<!--
-**urmalchide/urmalchide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student  
+💻 Backend Developer | Java & Spring Boot  
+🤖 AI/ML & Computer Vision Enthusiast  
+🚀 Actively building real-world, production-level projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- Passionate about **backend development** and **AI-powered systems**
+- Strong foundation in **Java, Spring Boot, REST APIs**
+- Experience building **full-stack applications** using **React**
+- Interested in **problem-solving, clean architecture, and scalable systems**
+- Open to **Internships & Full-Time Software Engineer roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
+
+### 🌐 Backend
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- RESTful APIs
+- JWT Authentication
+
+### 🎨 Frontend
+- React
+- HTML5
+- CSS3
+- JavaScript
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### 🤖 AI / ML
+- TensorFlow
+- CNN
+- Transfer Learning (VGG16)
+- Image Classification
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Postman
+- Streamlit
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Employee Management System (EMS)
+**Tech:** Java, Spring Boot, React, MySQL  
+- Role-based access (Admin, HR, Manager, Employee)
+- Secure authentication using JWT
+- RESTful APIs for employee lifecycle management
+- Designed for scalability and real-world usage  
+
+🔗 *Repo:* `employee-management-system-springboot`
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Spring Boot & Microservices
+- System Design Basics
+- Data Structures & Algorithms (Java)
+- Docker & Cloud Deployment
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/urmal-chide-6b3324307)
+- 📧 Email: chideurmal03@gmail.com
+
+---
