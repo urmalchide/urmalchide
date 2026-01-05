@@ -80,7 +80,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/urmal-chide-6b3324307)
+- 💼 LinkedIn: https://www.linkedin.com/in/urmal-chide-6b3324307
 - 📧 Email: chideurmal03@gmail.com
 
 ---
