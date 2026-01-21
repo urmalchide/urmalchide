@@ -40,19 +40,14 @@
 ### 🗄️ Databases
 - MySQL
 - MongoDB
-
-### 🤖 AI / ML
-- TensorFlow
-- CNN
-- Transfer Learning (VGG16)
-- Image Classification
+- PostgreSQL
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - Postman
-- Streamlit
 - IntelliJ IDEA
 - VS Code
+- Docker
 
 ---
 
@@ -65,7 +60,7 @@
 - RESTful APIs for employee lifecycle management
 - Designed for scalability and real-world usage  
 
-🔗 *Repo:* `employee-management-system-springboot`
+🔗 *Repo:* `https://github.com/ArvindDhage/Employee-management-system.git`
 
 ---
 
